@@ -1,3 +1,7 @@
+## About Project
+
+This is a project aimed at generating more engaging and concise lectures from existing lecture recordings or online study materials. We hope to create a more engaging learning experience while saving time for the audience.
+
 # Project Setup and Usage Guide
 
 ## Set up Conda Environment
